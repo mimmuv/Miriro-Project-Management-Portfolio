@@ -17,7 +17,7 @@ h6 {
   font-weight: bold;
 }
 h1 {
-  font-size: 96px;
+  font-size: 90px;
 }
 h2 {
   font-size: 64px;
@@ -66,8 +66,17 @@ p {
   padding: 0px 30px;
 }
 @media (max-width: 960px) {
+  .hero {
+    padding: 60px 20px;
+  }
   .project-description {
     padding: 0;
     text-align: center;
+  }
+  h1 {
+    font-size: 54px;
+  }
+  h2 {
+    font-size: 40px;
   }
 }
