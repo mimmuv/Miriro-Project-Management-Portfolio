@@ -2,15 +2,49 @@
 font-family: 'Permanent Marker', cursive;
 font-family: 'Playfair Display', serif;
 font-family: 'Poppins', sans-serif;       */
+
 body {
-  background: rgb(247, 211, 217);
+  background: #f5e0e5;
 }
-h1 {
-  color: blue;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: black;
   font-family: "Playfair Display", serif;
   font-weight: bold;
+}
+h1 {
+  font-size: 96px;
 }
 p {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
+}
+.hero {
+  background: #f6a8b8;
+  text-align: center;
+  padding: 160px 20px;
+}
+.hero p {
+  font-size: 36px;
+  font-weight: bold;
+  margin: 0;
+}
+.hero h2 {
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 2;
+  color: #272142;
+}
+.btn-styling {
+  color: white;
+  background-color: #440f19;
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 12px 20px;
 }
