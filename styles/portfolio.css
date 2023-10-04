@@ -82,3 +82,19 @@ p {
 }
 
 /* about page styling */
+.about-page-hero {
+  padding: 160px 20px;
+}
+.about-page-hero h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 36px;
+}
+.about-page-hero h2 {
+  font-family: "Playfair Display", serif;
+  font-size: 30px;
+}
+.about-page-hero p {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+}
