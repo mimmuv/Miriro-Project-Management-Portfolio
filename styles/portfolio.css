@@ -84,6 +84,7 @@ p {
 /* about page styling */
 .about-page-hero {
   padding: 160px 20px;
+  text-align: center;
 }
 .about-page-hero h1 {
   font-family: "Playfair Display", serif;
