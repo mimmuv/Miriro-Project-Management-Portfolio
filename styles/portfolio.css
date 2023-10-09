@@ -112,3 +112,33 @@ nav a:hover,
 nav li.active a {
   color: #852d3d !important;
 }
+/*footer*/
+
+footer {
+  margin: 150px 0;
+}
+footer .footer-box {
+  background-color: white;
+  padding: 30px 90px;
+  border-radius: 5px;
+}
+footer .footer-box p {
+  margin: 0;
+}
+footer .footer-links a {
+  margin: 0 20px;
+  padding: 10px 15px;
+  background-color: white;
+  border-radius: 50%;
+  color: #852d3d;
+  font-size: 18px;
+  transition: all 100ms ease-in-out;
+}
+footer .footer-links a:hover {
+  color: #f5cbd2;
+  background-color: #852d3d;
+}
+footer .btn-styling button:hover {
+  background-color: #f5cbd2 !important;
+  transition: all 100ms ease-in-out;
+}
