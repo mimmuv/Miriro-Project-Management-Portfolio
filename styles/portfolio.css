@@ -138,3 +138,10 @@ footer .footer-links a:hover {
   color: #f5cbd2;
   background-color: #852d3d;
 }
+footer .footer-links {
+  margin-bottom: 100px;
+}
+footer .git-link {
+  display: block;
+  text-align: center;
+}
