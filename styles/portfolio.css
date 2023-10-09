@@ -108,3 +108,7 @@ p {
   width: 400px;
   margin-left: 60px;
 }
+nav a:hover,
+nav li.active a {
+  color: #852d3d !important;
+}
